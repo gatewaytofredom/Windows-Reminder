@@ -1,3 +1,5 @@
+#interface for loading and saving json lists of events
+
 import simplejson as json
 
 def SaveFile(events_list):
